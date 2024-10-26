@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imomenujung&label=Profile%20views&color=0e75b6&style=flat" alt="imomenujung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adsuraa&label=Profile%20views&color=0e75b6&style=flat" alt="adsuraa" /> </p>
 
 My name is Adisti Suci Rahmah and I'm an Undergraduate Statistics and Data Science student at IPB University. I'm from Padang, living in Bogor. You can find me on [![LinkedIn][2.2]][2] or [![Tableu][3.2]][3].
 
@@ -21,7 +21,7 @@ My name is Adisti Suci Rahmah and I'm an Undergraduate Statistics and Data Scien
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imomenujung&layout=compact)](https://github.com/imomenujung/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsuraa&layout=compact)](https://github.com/adsuraa/github-readme-stats)
 
 
 <!-- links to social media icons -->
@@ -40,8 +40,8 @@ My name is Adisti Suci Rahmah and I'm an Undergraduate Statistics and Data Scien
 
 <!-- links to your social media accounts -->
 
-[1]: https://github.com/imomenujung
-[2]: https://www.linkedin.com/in/fadly-mt/
+[1]: https://github.com/adsuraa
+[2]: https://www.linkedin.com/in/adistisucirahmah/
 [3]: https://public.tableau.com/app/profile/fadly.mochammad.taufiq/
 
 
