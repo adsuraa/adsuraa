@@ -21,7 +21,7 @@ My name is Adisti Suci Rahmah and I'm an Undergraduate Statistics and Data Scien
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsuraa&layout=compact)](https://github.com/adsuraa/github-readme-stats)
+<!-- #[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsuraa&layout=compact)](https://github.com/adsuraa/github-readme-stats)-->
 
 
 <!-- links to social media icons -->
@@ -42,7 +42,7 @@ My name is Adisti Suci Rahmah and I'm an Undergraduate Statistics and Data Scien
 
 [1]: https://github.com/adsuraa
 [2]: https://www.linkedin.com/in/adistisucirahmah/
-[3]: https://public.tableau.com/app/profile/fadly.mochammad.taufiq/
+[3]: https://public.tableau.com/app/profile/
 
 
 <!-- Resources -->
