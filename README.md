@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imomenujung&label=Profile%20views&color=0e75b6&style=flat" alt="imomenujung" /> </p>
 
-My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data Science student at IPB University. I'm from Bandung, living in Bogor. You can find me on [![LinkedIn][2.2]][2] or [![Tableu][3.2]][3].
+My name is Adisti Suci Rahmah and I'm an Undergraduate Statistics and Data Science student at IPB University. I'm from Padang, living in Bogor. You can find me on [![LinkedIn][2.2]][2] or [![Tableu][3.2]][3].
 
 ## Languages and Tools
 <div>
