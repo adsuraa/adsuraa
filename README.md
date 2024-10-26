@@ -19,7 +19,7 @@ My name is Adisti Suci Rahmah and I'm an Undergraduate Statistics and Data Scien
 |----------|----------|----------|----------|
 |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/jupyter_logo.png" title="Jupyter"  alt="Jupyter" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/rstudio_logo.png" title="R Studio"  alt="Rstudio" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/vscode_logo.png" title="VScode" alt="VSCode" width="55" height="55"/> | <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/Excel_logo.png" title="Excel" alt="Excel" width="55" height="55"/> |
 
-## &#x1f4c8; GitHub Stats
+<!--## &#x1f4c8; GitHub Stats-->
 
 <!-- #[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsuraa&layout=compact)](https://github.com/adsuraa/github-readme-stats)-->
 
